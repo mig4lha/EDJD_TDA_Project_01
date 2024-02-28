@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YFfU7MKml8HlIhBbidIWlndnSXeeE5r9WSgtZbErfmcFVzSGueuyNSbHGQWtebCsfK11PEj7+RlW/oOvs9f0gg==",
+  "success": true,
+  "projectFilePath": "D:\\EDJD\\TDV\\EDJD_TDA_Project_01\\Sokoban\\Sokoban.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MIGUEL CUNHA\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\MIGUEL CUNHA\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
