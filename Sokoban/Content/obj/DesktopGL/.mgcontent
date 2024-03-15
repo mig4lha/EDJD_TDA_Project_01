@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/EDJD/TDV/EDJD_TDA_Project_01/Sokoban/Content/Box.png</File>
+    <File>D:/EDJD/TDV/EDJD_TDA_Project_01/Sokoban/Content/Player.png</File>
+    <File>D:/EDJD/TDV/EDJD_TDA_Project_01/Sokoban/Content/Point.png</File>
+    <File>D:/EDJD/TDV/EDJD_TDA_Project_01/Sokoban/Content/RebootFont.spritefont</File>
+    <File>D:/EDJD/TDV/EDJD_TDA_Project_01/Sokoban/Content/Wall.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

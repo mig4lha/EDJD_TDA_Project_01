@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/EDJD/TDV/EDJD_TDA_Project_01/Sokoban/Content/RebootFont.spritefont</SourceFile>
+  <SourceTime>2024-03-01T12:14:43.2143156+00:00</SourceTime>
+  <DestFile>D:/EDJD/TDV/EDJD_TDA_Project_01/Sokoban/Content/bin/DesktopGL/RebootFont.xnb</DestFile>
+  <DestTime>2024-03-01T12:28:57.6622899+00:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T12:44:56+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T12:44:56+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

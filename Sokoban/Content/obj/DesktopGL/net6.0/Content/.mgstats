@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/EDJD/TDV/EDJD_TDA_Project_01/Sokoban/Content/Box.png","D:/EDJD/TDV/EDJD_TDA_Project_01/Sokoban/Content/bin/DesktopGL/Content/Box.xnb","TextureProcessor","Texture2DContent",1059,16469,0.2446824
+"D:/EDJD/TDV/EDJD_TDA_Project_01/Sokoban/Content/Player.png","D:/EDJD/TDV/EDJD_TDA_Project_01/Sokoban/Content/bin/DesktopGL/Content/Player.xnb","TextureProcessor","Texture2DContent",1668,8817,0.0037399
+"D:/EDJD/TDV/EDJD_TDA_Project_01/Sokoban/Content/Point.png","D:/EDJD/TDV/EDJD_TDA_Project_01/Sokoban/Content/bin/DesktopGL/Content/Point.xnb","TextureProcessor","Texture2DContent",566,4181,0.0697599
+"D:/EDJD/TDV/EDJD_TDA_Project_01/Sokoban/Content/RebootFont.spritefont","D:/EDJD/TDV/EDJD_TDA_Project_01/Sokoban/Content/bin/DesktopGL/Content/RebootFont.xnb","FontDescriptionProcessor","SpriteFontContent",2073,13343,0.5852579
+"D:/EDJD/TDV/EDJD_TDA_Project_01/Sokoban/Content/Wall.png","D:/EDJD/TDV/EDJD_TDA_Project_01/Sokoban/Content/bin/DesktopGL/Content/Wall.xnb","TextureProcessor","Texture2DContent",1437,16469,0.0581836
